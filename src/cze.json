@@ -1,0 +1,48 @@
+{
+    "title": "Generátor tréninkových plánů",
+    "calculate": "Vypočítat",
+    "form_header": "Prosím vyplňte",
+    "rm_header": " 1RM v každé disciplíně",
+    "squat_snatch": "Trh technický",
+    "power_snatch": "Trh do polo",
+    "snatch_deadlift": "Pozved trhový",
+    "clean_and_jerk": "Nadhoz technický",
+    "squat_clean": "Přemístění technické",
+    "power_clean": "Přemístění do polo",
+    "clean_deadlift": "Pozved nadhozový",
+    "split_jerk": "Výraz technický",
+    "power_jerk": "Výraz do polo",
+    "push_jerk": "Výrazový tlak",
+    "back_squat": "Dřep zadní",
+    "front_squat": "Dřep přední",
+    "overhead_squat": "Dřep ve vzpažení",
+    "personal_info": "Vyberte pohlaví a váhovou kategorii",
+    "gender_weight_options": ["ženy 45-55 kg", "ženy 59-64 kg",
+    "ženy 71+ kg", "muži 55-73 kg", "muži 81-96 kg",
+     "muži 102+ kg"
+           ],
+    "general_setup_header": "Obecné nastavení",
+    "weakness_header": "Slabiny",
+    "snatch_weakness": "Slabina trh",
+    "clean_weakness": "Slabina přemístění",
+    "jerk_weakness": "Slabina výraz",
+    "sw_set": ["stabilita vzpažení", "nedokončený výtah",
+             "odkopávání činky", "neudrží ramena přes osu",
+             "neudrží váhu na celém chodidle", "pomalý přechod pod činku",
+             "[bez zásadních slabin]"
+            ],
+    "cw_set": ["nedokončený výtah","odkopávání činky",
+    "neudrží ramena přes osu","neudrží váhu na celém chodidle",
+    "pomalé otáčení loktů","činka padá na závodníka",
+    "[bez zásadních slabin]"
+            ],
+    "jw_set": ["nedokončený výpich","výpich není kolmo",
+    "nerovnoměrně rozložená váha v rozštěpu",
+    "pomalý přechod pod činku","[bez zásadních slabin]"
+            ],
+    "cycle_length": "Vyberte délku cyklu",
+    "cycles": [6,8,10,12],
+    "training_frequency": "Vyberte počet tréninků týdně",
+    "frequencies": [2,3,4,5]
+
+    }
